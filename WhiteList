@@ -1,6 +1,6 @@
 userids = {
-[3766266488] = true, --N0body4q--
-[2729856468] = true, --N1rroo--
-[4809498427] = true --for one scrim--
+[3766266488] = true,
+[2729856468] = true,
+[4809498427] = true
 }
 return userids
